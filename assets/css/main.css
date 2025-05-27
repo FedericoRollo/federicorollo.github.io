@@ -3028,6 +3028,22 @@ input, select, textarea {
 		opacity: 1.0 !important;
 	}
 
+/* Award Entry */
+.award-entry {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	}
+
+	.award-entry p {
+		margin-top: 0px;
+		margin-bottom: 0px;
+		}
+
+	.award-entry h4 {
+		margin-top: 0px;
+		margin-bottom: 0px;
+		}
+
 /* Work Entry */
 .work-entry {
 	line-height: 1.4;
