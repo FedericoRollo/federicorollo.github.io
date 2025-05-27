@@ -2194,6 +2194,10 @@ input, select, textarea {
 			width: 100%;
 		}
 
+			.image.fit:before {
+				display: none;
+			}
+
 			.image.fit img {
 				width: 100%;
 			}
